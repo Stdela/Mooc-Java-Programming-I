@@ -1,6 +1,6 @@
 package com.mycompany.paymentterminal;
 
-public class DumbCardEx {
+public class DumbCardMain {
 
     public static void main(String[] args) {
         DumbCard StudentCard = new DumbCard(2);
