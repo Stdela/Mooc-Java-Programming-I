@@ -1,4 +1,4 @@
-he exercise template comes with the "ClockHand" class described above. Implement a Timer class based on the material's Clock class.
+The exercise template comes with the "ClockHand" class described above. Implement a Timer class based on the material's Clock class.
 
 The timer has two hands, one for hundredths of a second and one for seconds. As it progresses, the number of hundredths of a second grows by one.
 When the hand corresponding to hundredths of a second reaches a value of 100, its value is set to zero, and the number of seconds grows by one.
