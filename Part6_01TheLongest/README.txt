@@ -1,0 +1,1 @@
+he exercise template comes with the class SimpleCollection that's familiar from previous exercises. Implement the method public String longest() for the class, which returns the longest string of the collection. If the collection is empty, the method should return a null reference.
